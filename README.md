@@ -27,3 +27,6 @@ This site/repo focuses on Step 1 - Discovery.
   - The full text search works *really* well.
   - Open/Closed are obvious fits.
 3. For feedback and everything else, **Discussions** are open on this repository.
+
+
+_All participants are expected to adhere to our [code of conduct](code_of_conduct.md).

@@ -1,6 +1,6 @@
 ---
 name: Organisation
-about: Template for listing an organisation that is seeking a CTO
+about: Use this if you are seeking a CTO
 title: "[Seeking CTO] "
 labels: organisation
 assignees: ''
@@ -22,4 +22,16 @@ assignees: ''
 ### Location(s) - if you have a preference. 
 
 
+_Put an x in this box if the candidates doesn't need to move to your location._
+
+- [ ] Remote OK!
+
+
+### Role Type
+
+- [ ] Full time
+- [ ] Part time
+- [ ] Advisory
+
 ### Founder/Executive Bio - Please include a LinkedIn profile if possible
+

@@ -30,11 +30,18 @@ There are essentially 3 stages to hiring a CTO:
 
 This site/repo focuses on Step 1 - Discovery. 
 
-### Why Is Discovery Hard?
+### Why is Discovery hard?
 
 - Discovery is a pretty complex two-sided marketplace problem. 
 - Unlike Amazon, a larger marketplace is actually a worse, noisier marketplace.
 - Cue, vertical marketplaces like YC's https://www.workatastartup.com/ or language specific ones like https://elixir-radar.com/jobs
+
+### Why make this role specific?
+
+- There are plenty of portals to help organisations hire junior/mid level engineers. 
+- The CTO role requires a combination of skills that other technology roles do not. 
+- Role specificity, hopefully, helps avoid the noisy marketplace challenge.
+
 
 ## How does this site help?
 

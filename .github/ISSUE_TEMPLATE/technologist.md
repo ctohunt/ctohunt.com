@@ -1,7 +1,7 @@
 ---
 name: Technologist
-about: Use this if you are looking for a role
-title: "[Seeking Role] "
+about: Looking for a role?
+title: "[Seeking Role] YOUR NAME"
 labels: technologist
 assignees: ''
 

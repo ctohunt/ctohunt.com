@@ -1,7 +1,7 @@
 ---
 name: Technologist
-about: Template for listing a technologist seeking a CTO role
-title: "[Seeking Org] "
+about: Use this if you are looking for a role
+title: "[Seeking Role] "
 labels: technologist
 assignees: ''
 
@@ -17,3 +17,13 @@ assignees: ''
 
 
 ### Location(s) - if you have a preference.
+
+_Check this box if you are only open to remote roles._
+
+- [ ] Only available remote.
+
+### Availability
+
+- [ ] Full time
+- [ ] Part time
+- [ ] Advisory

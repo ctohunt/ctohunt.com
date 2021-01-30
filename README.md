@@ -13,9 +13,12 @@ Like ProductHunt but for CTOs.
 
 ### Technologist seeking CTO Role
 
-1. Create an issue with the [technologist template](https://github.com/ctohunt/ctohunt.com/issues/new?assignees=&labels=technologist&template=technologist.md&title=%5BSeeking+Org%5D+)
-2. Monitor and respond to comments - by default you will be notified on your Github login email.
-3. Take evaluation, and courtship, offline. 
+
+1. [Search for organisations](https://github.com/ctohunt/ctohunt.com/issues?q=is%3Aopen+is%3Aissue+label%3Aorganisation) looking to hire someone like you.
+2. If you find a suitable issue, go ahead, comment and engage!
+3. If you can't find any suitable listings, go ahead and showcase yourself! Create an issue with the [technologist template](https://github.com/ctohunt/ctohunt.com/issues/new?assignees=&labels=technologist&template=technologist.md&title=%5BSeeking+Org%5D+)
+4. Monitor and respond to comments - by default you will be notified on your Github login email.
+5. Take evaluation, and courtship, offline. 
 
 
 ## Why

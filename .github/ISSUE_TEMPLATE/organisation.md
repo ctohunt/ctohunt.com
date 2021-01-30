@@ -1,14 +1,11 @@
 ---
 name: Organisation
-about: Use this if you are seeking a CTO
-title: "[Seeking CTO] "
+about: Looking for a CTO?
+title: "[Seeking CTO] ORG NAME"
 labels: organisation
 assignees: ''
 
 ---
-
-### What's your organisation called?
-
 
 ### Website - if you have one.
 

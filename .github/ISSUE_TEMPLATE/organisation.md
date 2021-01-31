@@ -13,6 +13,9 @@ assignees: ''
 ### What problem(s) does the organisation solve? Please keep it brief.
 
 
+### Why should the CTO join your company? What makes you stand out?
+
+
 ### Technology Stack - if you have/prefer one. Leave it blank otherwise.
 
 
@@ -22,14 +25,14 @@ assignees: ''
 
 _Put an x in this box if the candidates doesn't need to move to your location._
 
-- [ ] Remote OK!
+- [] Remote OK!
 
 
 ### Role Type
 
-- [ ] Full time
-- [ ] Part time
-- [ ] Advisory
+- [] Full time
+- [] Part time
+- [] Advisory
 
 ### Founder/Executive Bio - Please include a LinkedIn profile if possible
 
